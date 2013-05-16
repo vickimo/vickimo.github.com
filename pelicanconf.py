@@ -4,8 +4,8 @@
 from __future__ import unicode_literals
 
 
-SITENAME = u'Kevin Richardson'
-AUTHOR = u'Kevin Richardson'
+SITENAME = u'Victoria Mo'
+AUTHOR = u'Victoria Mo'
 TAGLINE = u'explorer & tinkerer'
 SITEURL = 'http://localhost:8000'
 FEED_DOMAIN = SITEURL
@@ -18,7 +18,7 @@ DATE_FORMATS = {
 }
 DEFAULT_PAGINATION = 1
 
-THEME = 'themes/pelican-foundation'
+THEME = 'themes/pelican-svbtle'
 
 
 # display items
