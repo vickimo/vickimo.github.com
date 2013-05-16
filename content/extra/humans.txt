@@ -1,12 +1,13 @@
-# Kevin Richardson
-Email:      kevin [at] magically [dot] us
-GitHub:     https://github.com/kfr2
-Twitter:    @kfr_2
-freenode:   kfr2
-Interests:  games, data, analysis, plain text, simplicity, Python, R,
-            beautiful software and code, web apps, exploring, reading,
-            hacking, cute animals, tea, sandwiches, free software.
-            Life, the Universe, and Everything
+# Victoria Mo
+Email:      msvictoriamo [at] gmail [dot] com
+GitHub:     https://github.com/vickimo
+LinkedIn:   http://linkedin.com/in/victoriamo
+Interests:  epee fencing, languages, startups, machine learning, web apps,
+			people problems, Python, Javascript, Django, NodeJS, clean code,
+			outdoor brogramming, finding a girl-inclusive word for brogramming,
+			meditation, mental awareness, tai chi, outdoor exploration,
+			skiing, tennis, playing pranks on my little brother, eating NYC,
+            taking one wondrous moment of life at a time
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.4.12 (Darwin)
