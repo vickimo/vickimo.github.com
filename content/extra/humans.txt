@@ -3,10 +3,10 @@ Email:      msvictoriamo [at] gmail [dot] com
 GitHub:     https://github.com/vickimo
 LinkedIn:   http://linkedin.com/in/victoriamo
 Interests:  epee fencing, languages, startups, machine learning, web apps,
-			people problems, Python, Javascript, Django, NodeJS, clean code,
-			outdoor brogramming, finding a girl-inclusive word for brogramming,
-			meditation, mental awareness, tai chi, outdoor exploration,
-			skiing, tennis, playing pranks on my little brother, eating NYC,
+            solving hard people problems, Python, Javascript, Django, NodeJS, 
+            clean code, outdoor brogramming, outdoor sisgramming,
+            meditation, mental awareness, tai chi, outdoor exploration, skiing,
+            tennis, playing pranks on my brother, eating through NYC, 
             taking one wondrous moment of life at a time
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----

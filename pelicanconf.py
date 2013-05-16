@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 
 SITENAME = u'Victoria Mo'
 AUTHOR = u'Victoria Mo'
-TAGLINE = u'explorer & tinkerer'
+TAGLINE = u'Moving mountains, one stone at a time.'
 SITEURL = 'http://localhost:8000'
 FEED_DOMAIN = SITEURL
 FEED_ATOM = 'feeds/all.atom.xml'
@@ -26,11 +26,11 @@ LOGO_URL = 'https://dl.dropboxusercontent.com/u/7030113/www/art-noveau-ornament.
 MENUITEMS = (
     ('archives', '/archives.html'),
     ('feed', '/feeds/all.atom.xml'),
-    ('github', 'https://github.com/kfr2/'),
+    ('github', 'https://github.com/vickimo/'),
 )
 DISPLAY_PAGES_ON_MENU = True
 FOOTER_MESSAGE = u'This work is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="license">CC BY-SA</a>.'
-TWITTER_USERNAME = u'kfr_2'
+TWITTER_USERNAME = u'mo_vicki'
 
 
 #STATIC_PATHS = ()
@@ -41,6 +41,7 @@ FILES_TO_COPY = (
     ('extra/humans.txt', 'humans.txt'),
     ('extra/favicon.ico', 'favicon.ico'),
     ('extra/404.html', '404.html'),
+    ('extra/snowy_peaks.jpg', 'snowy_peaks.jpg'),
 )
 
 # Plugins and their settings.

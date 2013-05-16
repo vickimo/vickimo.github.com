@@ -1,33 +1,37 @@
-Title: about  
-Date: 2012-12-07 18:00  
+Title: About what? About me.
+Date: 2013-05-16 17:00  
 Slug: about  
-Author: Kevin Richardson  
-Summary:  A quick summary of Kevin Richardson.  
+Author: Victoria Mo 
+Summary:  A quick summary of Victoria Mo.  
 
-### My goals
-One of my goals is to create beautiful software that assists users in living a better life.  Applications without a focus distract users from completing their tasks efficiently and hinder their ability to live a life in the real world.  Although I have interests in many areas of computer science, programming, and development (as well as in life itself), my current interests focus on creating responsive and intelligent applications with an intention of simplifying (rather than increasing) the amount of work a person has to complete to get things done.  Computers are very good at repeating boring or complicated tasks, so we should harness that power to make lives better.
+### My values
 
-Currently, I work predominantly with the [Django web framework](http://djangoproject.com) and the [Python](http://www.python.org/) programming language but have experience with a variety of languages and frameworks.  Indeed, I greatly enjoy learning new development tools and paradigms as, ultimately, I want to create wonderful experiences for users and will learn whichever languages or tools are neccessary.  Moreover, I am very interested in data science and analytics.  To this end, I am examining how I can use tools like [R](http://cran.r-project.org/) and [Pandas](http://pandas.pydata.org/) to better understand life.
+I believe in striving to do the best that I can possibly do at whatever I am doing at that current moment. “do” includes everything within my immediate control, that is, thought, speech, and action. “best” is defined as the intersection of what I can objectively state and how I subjectively feel is the right thing to do for that particular situation. Every day I learn more about my values, my weights for each of them, and how to best apply them in practice. Some guidelines that I try to hold by are being honest to myself and to others, avoiding the 3 C’s (criticizing, condemning, complaining), and looking upon the world with soft eyes ☺.
 
-### This site
-Magically.us contains my [notes](http://dl.dropbox.com/u/7030113/notes/index.htm), experimentations, and [projects](/pages/projects.html) in various areas.  The writings are released under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) and the software under the [MIT License](http://opensource.org/licenses/MIT), so please feel free to use them to whichever end you see fit.  I urge you to consider releasing your own software or other creations under similar licenses so others can benefit from your accomplishments and the world can be a better place.
+### [Relax and Focus (7 steps)](/)
 
+### My programming goals
+
+To put people at the forefront of my code. I want to build software that not only positively impacts the world around me, but also is beautiful, well-documented, and easy-to-understand.
+
+I’m a full-stack programmer, but I especially enjoy working on hard people problems, in particular, UI/UX and AI/Machine Learning/making sense of big data.
+
+Causes that especially interest me include connecting cultures through language learning, bridging the gap by opening up data visualization and machine learning techniques to non-technical users, and empowering people to believe that they can do anything, as long as they believe that they can.
+
+### My toolbox
+
+I’ve worked with the [Python](http://www.python.org/) programming language and the [Django web framework](http://djangoproject.com) extensively, but I have also built applications using [NodeJS](http://nodejs.org)/[Express](http://expressjs.com). SQL databases are usually my go-to, but I’ve also been experimenting lately with the NoSQL database [Cassandra]( http://www.datastax.com/what-we-offer/products-services/datastax-enterprise/apache-cassandra).
+
+Other languages: C, C++, Java, R, Matlab/Octave
 
 ### Contact
-Thank you very much for perusing my site.  You can find my contact information (as well as some of my interests) in [my humans.txt file](/humans.txt).
 
+You can find my contact information (as well as some of my interests) in [my humans.txt file](/humans.txt).
 
-### Neat Software
-Below, in no particular order, is a small list of software that make my life better:
+I’m also a competitive fencer gunning for the national team, so if you or anyone you know has any interest in starting up, shoot me a line and I’ll tell you the best places/clubs to learn!
 
-* [Python](http://python.org)
-* [R](http://cran.r-project.org/)
-* [Django](http://djangoproject.com)
-* [Vagrant](http://vagrantup.com)
-* [Mou](http://mouapp.com/)
-* [Vim](http://www.vim.org/)
-* [iTerm2](http://www.iterm2.com/)
-* [nvALT](http://brettterpstra.com/project/nvalt/)
-* [Alfred](http://www.alfredapp.com/)
-* [Kindle Paperwhite](http://www.amazon.com/gp/product/B008GEKXUO/)
-* [Readability](https://www.readability.com/)
+### Credits
+
+Thank you to everyone in my family for their continual support, especially mommy, daddy, Bereenda, and even Kevin. Thank you to all my friends, who frolic around with me and accept me for my unconventional ways. Thank you to Nathan, who encourages and supports me to grow in all different directions. Finally, thank you to everyone for just existing and being a part of this wonderful world ☺.
+
+Thank you also to [Kevin Richardson](http://magically.us/), whose [documentation](http://magically.us/2013-02-03/creating-a-pelican-powered-site-on-github-pages.html) and [code](https://github.com/kfr2/kfr2.github.com) helped me set this site up.
