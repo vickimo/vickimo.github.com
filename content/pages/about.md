@@ -1,4 +1,4 @@
-Title: About what? About me.
+Title: About what? About me!
 Date: 2013-05-16 17:00  
 Slug: about  
 Author: Victoria Mo 
@@ -6,7 +6,7 @@ Summary:  A quick summary of Victoria Mo.
 
 ### My values
 
-I believe in striving to do the best that I can possibly do at whatever I am doing at that current moment. “do” includes everything within my immediate control, that is, thought, speech, and action. “best” is defined as the intersection of what I can objectively state and how I subjectively feel is the right thing to do for that particular situation. Every day I learn more about my values, my weights for each of them, and how to best apply them in practice. Some guidelines that I try to hold by are being honest to myself and to others, avoiding the 3 C’s (criticizing, condemning, complaining), and looking upon the world with soft eyes ☺.
+I believe in striving to do the best that I can possibly do at whatever I am doing at each current moment. “do” includes everything within my immediate control, that is, thought, speech, and action. “best” is defined as the intersection of what I can objectively state and how I subjectively feel is the right thing to do for that particular situation. Every day I learn more about my values, my weights for each of them, and how to best apply them in practice. Some guidelines that I try to hold by are being honest to myself and to others, avoiding the 3 C’s (criticizing, condemning, complaining), and looking upon the world with soft eyes ☺.
 
 ### [Relax and Focus (7 steps)](/)
 
