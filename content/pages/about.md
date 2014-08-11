@@ -32,6 +32,6 @@ I’m also a competitive fencer gunning for the national team, so if you or anyo
 
 ### Credits
 
-Thank you to everyone in my family for their continual support, especially mommy, daddy, Bereenda, and even Kevin. Thank you to all my friends, who frolic around with me and accept me for my unconventional ways. Thank you to Nathan, who encourages and supports me to grow in all different directions. Finally, thank you to everyone for just existing and being a part of this wonderful world ☺.
+Thank you to everyone in my family for their continual support, especially mommy, daddy, Bereenda, and even Kevin. Thank you to all my friends, who frolic around with me and accept me for my unconventional ways. Finally, thank you to everyone for just existing and being a part of this wonderful world ☺.
 
 Thank you also to [Kevin Richardson](http://magically.us/), whose [documentation](http://magically.us/2013-02-03/creating-a-pelican-powered-site-on-github-pages.html) and [code](https://github.com/kfr2/kfr2.github.com) helped me set this site up.
