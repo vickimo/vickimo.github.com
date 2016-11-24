@@ -14,13 +14,13 @@ I believe in striving to do the best that I can possibly do at whatever I am doi
 
 To put people at the forefront of my code. I want to build software that not only positively impacts the world around me, but also is beautiful, well-documented, and easy-to-understand.
 
-I’m a full-stack programmer, but I especially enjoy working on hard people problems, in particular, UI/UX and AI/Machine Learning/making sense of big data.
+I’m a full-stack programmer, but I especially enjoy working on hard people problems, in particular, AI/Machine Learning/making sense of big data.
 
 Causes that especially interest me include connecting cultures through language learning, bridging the gap by opening up data visualization and machine learning techniques to non-technical users, and empowering people to believe that they can do anything, as long as they believe that they can.
 
 ### My toolbox
 
-I’ve worked with the [Python](http://www.python.org/) programming language and the [Django web framework](http://djangoproject.com) extensively, but I have also built applications using [NodeJS](http://nodejs.org)/[Express](http://expressjs.com). SQL databases are usually my go-to, but I’ve also been experimenting lately with the NoSQL database [Cassandra]( http://www.datastax.com/what-we-offer/products-services/datastax-enterprise/apache-cassandra).
+I’ve worked with the [Python](http://www.python.org/) programming language and the [Django web framework](http://djangoproject.com) extensively, but I have also built applications using [NodeJS](http://nodejs.org)/[Express](http://expressjs.com), RoR, and Obj-C. SQL databases are usually my go-to, but I’ve also been experimenting lately with the NoSQL database [Cassandra]( http://www.datastax.com/what-we-offer/products-services/datastax-enterprise/apache-cassandra).
 
 Other languages: C, C++, Java, R, Matlab/Octave
 
@@ -32,6 +32,4 @@ I’m also a competitive fencer gunning for the national team, so if you or anyo
 
 ### Credits
 
-Thank you to everyone in my family for their continual support, especially mommy, daddy, Bereenda, and even Kevin. Thank you to all my friends, who frolic around with me and accept me for my unconventional ways. Finally, thank you to everyone for just existing and being a part of this wonderful world ☺.
-
-Thank you also to [Kevin Richardson](http://magically.us/), whose [documentation](http://magically.us/2013-02-03/creating-a-pelican-powered-site-on-github-pages.html) and [code](https://github.com/kfr2/kfr2.github.com) helped me set this site up.
+Thank you to [Kevin Richardson](http://magically.us/), whose [documentation](http://magically.us/2013-02-03/creating-a-pelican-powered-site-on-github-pages.html) and [code](https://github.com/kfr2/kfr2.github.com) helped me set this site up.
